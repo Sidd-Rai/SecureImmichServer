@@ -91,7 +91,7 @@ No service is reachable without first authenticating to the VPN.
 - UFW with default deny for inbound, outbound, and routed traffic
 - Explicit allow rules only for:
   - WireGuard
-  - SSH over wg0
+  - SSH over wireguard
   - Required container egress
 - Firewall assumes the host is **hostile-by-default**
 

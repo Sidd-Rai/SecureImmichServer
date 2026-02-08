@@ -41,7 +41,7 @@ The public interface is assumed to be hostile.
 
 Once connected:
 - The client can reach the server’s VPN IP
-- SSH and web services are accessible only over `wg0`
+- SSH and web services are accessible only over wireguard
 
 WireGuard acts as the **primary authentication and network boundary**.
 
