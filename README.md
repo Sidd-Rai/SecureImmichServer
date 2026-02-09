@@ -142,12 +142,13 @@ No service is reachable without first authenticating to the VPN.
 
 ## Repository Structure
 
-```
-docs/ → Architecture and operational docs
-scripts/ → Startup, shutdown, and monitoring scripts
-diagrams/ → Architecture and network flow diagrams
-security/ → Threat model and attack surface analysis
-```
+
+- [docs/](docs/) → [Architecture](docs/architecture.md) and [Operational](docs/) docs
+- scripts/ → Startup, shutdown, and monitoring scripts
+
+- diagrams/ → Architecture and network flow diagrams
+- [security/](security/) → [Threat model](security/threat-model.md) and [attack surface analysis](security/attack-surface.md)
+
 
 ## Status
 
