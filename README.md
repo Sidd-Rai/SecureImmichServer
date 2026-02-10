@@ -8,7 +8,7 @@ Although this project prioritizes **security over convenience**, it's still fair
 
 ## Why did I make it?
 
-Just like everyone else, I also have a large personal photo library, which I stored on clod. I wanted to move away from these
+Just like everyone else, I also have a large personal photo library, which I stored on cloud. I wanted to move away from these
 third-party cloud storages because:
 
 - I started having some privacy concerns about trusting third party services with my personal data.
@@ -160,9 +160,8 @@ No service is reachable without first authenticating to the VPN.
 
 ## Future Improvements
 
-- External UPS
 - RAID-based redundancy
-- Key-based SSH authentication
 - Certificate trust distribution instead of manual TLS warnings
 - Formalized backup rotation
+- External UPS
 

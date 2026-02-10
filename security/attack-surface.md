@@ -68,7 +68,7 @@ All access paths are controlled and documented.
 
 **Authentication:**
 - key-based authentication
-- Root login enabled for operational reasons
+- Root login disabled
 
 **Risk Considerations:**
 - Relies on WireGuard as the primary access control
