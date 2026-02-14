@@ -144,9 +144,9 @@ No service is reachable without first authenticating to the VPN.
 
 
 - [docs/](docs/) → [Architecture](docs/architecture.md) and [Operational](docs/) docs
-- scripts/ → Startup, shutdown, and monitoring scripts
+- [scripts/](scripts/) → [Startup](scripts/StartImmichServer.sh), [shutdown](scripts/StopImmichServer.sh), and other scripts
 
-- diagrams/ → Architecture and network flow diagrams
+- [diagrams/](diagrams/) → [Network architecture](diagrams/Network%20Architecture.png) and [Service Architecture](diagrams/Service%20Architecture.png) diagrams
 - [security/](security/) → [Threat model](security/threat-model.md) and [attack surface analysis](security/attack-surface.md)
 
 
